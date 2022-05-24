@@ -1,0 +1,76 @@
+.logo{
+    height: 70px;
+}
+
+.slider{
+    background-image: url("/images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+.buyButton{
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.slide{
+    margin-bottom: 100px;
+}
+.buyButton:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 10px 20px 20px lightgray;
+}
+.seelink{
+    text-decoration: none;
+    color: orange;
+}
+.card{
+    margin-top: 50px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 20px 30px gray;
+    padding: 20px 30px;
+}
+
+.smartphone{
+    margin-bottom: 70px;
+}
+
+.Categories{
+    margin-top: 100px;
+    text-align: center;
+}
+.Categories h4{
+    border-bottom: 10px solid orange;
+    border-radius: 20px;
+    width: 100px;
+    margin: 0px auto;
+    
+}
+.cstagoriesData{
+    margin-top: 100px;
+
+}
+/* .mar{
+    padding: 10px 30px;  
+} */
+.bag, .beauty, .shoes{
+    margin-bottom: 20px;
+    background-color: white;
+    box-shadow: 10px 20px 30px lightgray;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+.cradit{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.craditlink{
+    text-decoration: none;
+    color: orange;
+}
